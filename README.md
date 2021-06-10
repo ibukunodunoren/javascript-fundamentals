@@ -1,1 +1,1 @@
-# javascript-fundamentals-udemy
+# javascript-fundamentals
